@@ -17,8 +17,4 @@ To design and implement a comprehensive SOC automation system aimed at enhancing
 - TheHive.
 - IOCS for alerts of imminent attacks.
 
-## Steps
- <img src="https://imgur.com/a/VPzrQqX" />
 
-
-*Ref 1: Project Diagram*
