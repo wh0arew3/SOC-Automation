@@ -18,7 +18,7 @@ To design and implement a comprehensive SOC automation system aimed at enhancing
 - IOCS for alerts of imminent attacks.
 
 ## Steps
-![image](https://github.com/wh0arew3/SOC-Automation/assets/169475306/4aa8d2a9-f54c-406c-aab2-c5031fb53f0b)
+ <img src="https://imgur.com/a/VPzrQqX" />
 
 
 *Ref 1: Project Diagram*
